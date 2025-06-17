@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="emergency_red">#FF5722</color>
+    <color name="white">#FFFFFF</color>
+</resources>
